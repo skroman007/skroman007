@@ -33,10 +33,14 @@ Frontend Technologies
 
 Reach Me 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+<div>
+<a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
+<a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+<a href="https://testimonify.herokuapp.com" target="_blank">website</a>
 </div>
+
 <div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
