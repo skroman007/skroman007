@@ -9,7 +9,7 @@ I’m Shaikh Roman
 “Learning to code is useful no matter what your career ambitions are"
 
 I am Front-End Developer 
-HTML | CSS | JavaScript | Bootstrap | ReactJs | ReactNative | Redux | NodeJs | Web Development. 
+HTML | CSS | JavaScript | Bootstrap | ReactJs | ReactNative | Redux | NodeJs | Material Ui | Web Development. 
 To get uptodate about the contents i create you may follow me on GitHub,Linkedin and Twitter.
 
 Frontend Technologies 
