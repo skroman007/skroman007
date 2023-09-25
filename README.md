@@ -14,23 +14,24 @@ Hello!👋 I'm Shaikh Roman, a passionate Front-End developer specializing in Re
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2/> < Front-end Development :- React.js, JavaScript (ES6+), HTML5, CSS3 /> </h2>
 
-< State Management: Redux, Context API />
+<h2/> < State Management :- Redux, Context API /> </h2>
 
-< Styling Libraries: Styled-components, CSS Modules, SASS />
+<h2/> < Styling Libraries :- Styled-components, CSS Modules, SASS /> </h2>
 
-< Build Tools: Webpack, Babel />
+<h2/> < Build Tools :- Webpack, Babel /> </h2>
 
-< Version Control: Git, GitHub />
+<h2/> < Version Control :- Git, GitHub /> </h2>
 
-< Testing: Jest, React Testing Library />
+<h2/> < Testing :- Jest, React Testing Library /> </h2>
 
-< Package Management: npm, Yarn />
+<h2/> < Package Management :- npm, Yarn /> </h2>
 
-< UI/UX Design: Figma, Adobe XD />
+<h2/> < UI/UX Design: Figma, Adobe XD /> </h2>
 
-< Responsive Design: Mobile-first approach />
+<h2/> < Responsive Design :- Mobile-first approach /> </h2>
 
-< Cross-Browser Compatibility />
+<h2/> < Cross-Browser Compatibility /> </h2>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
