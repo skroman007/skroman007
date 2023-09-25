@@ -12,8 +12,7 @@ Hello!👋 I'm Shaikh Roman, a passionate Front-End developer specializing in Re
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Expertise
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-< Front-end Development: React.js, JavaScript (ES6+), HTML5, CSS3 />
-<h2/> Front-end Development: React.js, JavaScript (ES6+), HTML5, CSS3 </h2>
+<h2/> < Front-end Development: React.js, JavaScript (ES6+), HTML5, CSS3 /> </h2>
 
 < State Management: Redux, Context API />
 
