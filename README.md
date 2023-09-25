@@ -7,7 +7,8 @@ Hi 👋 !
 I’m Shaikh Roman
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 About Me
-Hello! 👋 I'm Shaikh Roman, a passionate Front-End developer specializing in React.js. With a keen eye for design and a love for clean, efficient code, I bring user interfaces to life with seamless and interactive experiences. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hello!👋 I'm Shaikh Roman, a passionate Front-End developer specializing in React.js. With a keen eye for design and a love for clean, efficient code, I bring user interfaces to life with seamless and interactive experiences. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
