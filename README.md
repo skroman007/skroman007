@@ -10,6 +10,19 @@ About Me
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hello!👋 I'm Shaikh Roman, a passionate Front-End developer specializing in React.js. With a keen eye for design and a love for clean, efficient code, I bring user interfaces to life with seamless and interactive experiences. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🚀 Expertise
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+< Front-end Development: React.js, JavaScript (ES6+), HTML5, CSS3 />
+< State Management: Redux, Context API />
+< Styling Libraries: Styled-components, CSS Modules, SASS />
+< Build Tools: Webpack, Babel />
+< Version Control: Git, GitHub />
+< Testing: Jest, React Testing Library />
+< Package Management: npm, Yarn />
+< UI/UX Design: Figma, Adobe XD />
+< Responsive Design: Mobile-first approach />
+< Cross-Browser Compatibility />
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
