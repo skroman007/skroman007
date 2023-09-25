@@ -6,13 +6,8 @@ Hi 👋 !
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’m Shaikh Roman
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-“Learning to code is useful no matter what your career ambitions are"
-
-I am Front-End Developer 
-HTML | CSS | JavaScript | Bootstrap | ReactJs | ReactNative | Redux | NodeJs | Material Ui | Git | Web Development. 
-To get uptodate about the contents i create you may follow me on GitHub,Linkedin and Twitter.
-
-Frontend Technologies 
+About Me
+Hello! 👋 I'm Shaikh Roman, a passionate Front-End developer specializing in React.js. With a keen eye for design and a love for clean, efficient code, I bring user interfaces to life with seamless and interactive experiences. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
